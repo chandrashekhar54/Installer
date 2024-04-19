@@ -12,3 +12,4 @@ D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\refint\Installer.
 D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.pdb
 D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.genruntimeconfig.cache
 D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\ref\Installer.dll
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.sourcelink.json
