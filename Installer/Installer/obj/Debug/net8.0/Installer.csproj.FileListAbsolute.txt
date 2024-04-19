@@ -1,0 +1,14 @@
+D:\DATA\GitCode\Installer\Installer\Installer\bin\Debug\net8.0\Installer.exe
+D:\DATA\GitCode\Installer\Installer\Installer\bin\Debug\net8.0\Installer.deps.json
+D:\DATA\GitCode\Installer\Installer\Installer\bin\Debug\net8.0\Installer.runtimeconfig.json
+D:\DATA\GitCode\Installer\Installer\Installer\bin\Debug\net8.0\Installer.dll
+D:\DATA\GitCode\Installer\Installer\Installer\bin\Debug\net8.0\Installer.pdb
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.AssemblyInfoInputs.cache
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.AssemblyInfo.cs
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.csproj.CoreCompileInputs.cache
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.dll
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\refint\Installer.dll
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.pdb
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\Installer.genruntimeconfig.cache
+D:\DATA\GitCode\Installer\Installer\Installer\obj\Debug\net8.0\ref\Installer.dll
